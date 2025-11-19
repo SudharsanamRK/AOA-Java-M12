@@ -1,6 +1,6 @@
 
 # EX 2A Assign Cookies using Greedy Algorithm. 
-## DATE:
+## DATE: 15-10-2025
 
 ## AIM:
 To Write a Java program for the following Constraints.
